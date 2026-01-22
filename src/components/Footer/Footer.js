@@ -30,76 +30,76 @@ const Footer = () => {
 
         <div className="flex flex-col md:flex-row gap-[32px] md:gap-[80px]">
           <div className="flex flex-col gap-[12px]">
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Home
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               How it Works
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               All Apps
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Pricing
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Group for Teams
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Blog
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Podcast
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Questions?
             </a>
           </div>
 
           <div className="flex flex-col gap-[12px]">
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               About
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Support
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Education Discount
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Family Plan
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               For Developers
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Gift Cards
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Redeem Gift Card Code
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Affiliate Program
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Mac Developer Survey 2023
             </a>
           </div>
 
           <div className="flex flex-col gap-[12px]">
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Getting started with Setapp
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Remote access to other Mac
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Fix macOS Ventura problems
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Best YouTube downloaders
             </a>
-            <a href="#" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
+            <a href="/" className="text-[#999999] no-underline transition-colors duration-200 hover:text-white">
               Screen apps
             </a>
           </div>
@@ -126,11 +126,11 @@ const Footer = () => {
             584165. VAT ID: IE3425001BH
           </div>
           <div>
-            <a href="#" className="text-[#666666] no-underline">
+            <a href="/terms" className="text-[#666666] no-underline">
               Terms of Use
             </a>
             <span className="mx-[10px]" />
-            <a href="#" className="text-[#666666] no-underline">
+            <a href="/privacy" className="text-[#666666] no-underline">
               Privacy Policy
             </a>
           </div>
